@@ -7,6 +7,7 @@ blue
 violet
 green 
 pink
+yellow
 
 
 the rainbow
